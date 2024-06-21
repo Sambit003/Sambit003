@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TO STAY FOCUSSED**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rajdip-b?tab=repositories](https://github.com/Sambit003?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Sambit003?tab=repositories](https://github.com/Sambit003?tab=repositories)
 
 - 💬 Ask me about **React.js, Javascript, Typescript, Java, Spring, C++**
 
