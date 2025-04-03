@@ -33,6 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sambit003&show_icons=true&locale=en" alt="Sambit003" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdip-b&" alt="rajdip-b" /></p>
-
 [![Sambit's Holopin Board](https://holopin.me/sambit_ckbt)](https://holopin.io/@sambit_ckbt)
